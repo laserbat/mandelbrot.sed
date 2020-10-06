@@ -4,8 +4,10 @@ A sed script that renders Mandelbrot set in ascii. Uses unary arithmetic extende
 
 Run with `$ echo | ./mandelbot.sed`
 
+![](demo.png)
+
 ## How it works
 
 TODO
 
-![](demo.png)
+Preliminary explanation available [here](https://www.reddit.com/r/commandline/comments/j5uqvp/a_sed_script_that_renders_mandelbrot_set/g7ux5zw/).
