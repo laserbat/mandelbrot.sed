@@ -16,9 +16,9 @@ All numbers are treated as numerators of a fraction with a fixed denominator N. 
 
 Addition and substraction is done by grouping together numbers with same signs and then cancelling out unary digits on the sides of '-':
 
-   aaa-aa
-   aa-a
-   a-
+    aaa-aa
+    aa-a
+    a-
    
 (final '-' is dropped afterwards).
 
